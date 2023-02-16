@@ -21,5 +21,6 @@ https://user-images.githubusercontent.com/101847820/219399965-67935ee7-4877-42fd
 ## Get inspired
 
 There's so much you can build with flutter:
-- https://youtu.be/Yj0_Bqbz9Kg 🧬💬👀
+- watch youtube 🧬💬👀
+https://youtu.be/Yj0_Bqbz9Kg
 - and more!
