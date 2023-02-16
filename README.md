@@ -13,6 +13,7 @@ Open a AndroidStudio and run:
 1. Get the Flutter SDK
 2. flutter doctor
 3. Getx 상태관리
+```
 
 ### Give me more!
 
